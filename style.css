@@ -1,5 +1,5 @@
 body {
-  background-image:url(background2.jpg);
+  background-image: url(background2.jpg);
   background-color: rgb(64, 64, 64);
 }
 
@@ -12,7 +12,7 @@ p {
 h1 {
   font-family: Tahoma;
   color: darkseagreen;
-  text-align: center; 
+  text-align: center;
   text-decoration: underline;
 }
 
@@ -56,4 +56,3 @@ h6 {
   color: darkseagreen;
   font-size: large;
 }
-
