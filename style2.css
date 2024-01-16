@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(64, 64, 64);
+}
+
+p {
+  font-family: Tahoma;
+  font-size: x-large;
+  color: darkseagreen;
+}
+
+h1 {
+  font-family: Tahoma;
+  color: darkseagreen;
+  text-align: center;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+h3 {
+  font-family: Tahoma;
+  color: darkseagreen;
+  font-size: larger;
+}
+
+h2 {
+  font-family: Tahoma;
+  color: darkseagreen;
+}
+
+h6 {
+  font-family: Tahoma;
+  color: darkseagreen;
+  font-size: large;
+}
