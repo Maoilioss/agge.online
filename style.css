@@ -1,0 +1,73 @@
+body {
+  background-image:url(background2.jpg);
+  background-color: rgb(64, 64, 64);
+}
+
+p {
+  font-family: Tahoma;
+  font-size: x-large;
+  color: darkseagreen;
+}
+
+h1 {
+  font-family: Tahoma;
+  color: darkseagreen;
+  text-align: center; 
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: Tahoma;
+  color: darkseagreen;
+  font-size: larger;
+}
+
+h2 {
+  font-family: Tahoma;
+  color: darkseagreen;
+}
+
+h6 {
+  font-family: Tahoma;
+  color: darkseagreen;
+  font-size: large;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #fff;
+}
+
+a {
+  color:#fff;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+a:hover {
+  color:chartreuse;
+  text-shadow:0px 0px 100px chartreuse;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+img {
+  box-shadow: 10px 10px 5px rgb(0, 0, 0);
+}
+
+p:hover {
+  color:chartreuse;
+  text-shadow:0px 0px 100px chartreuse;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
