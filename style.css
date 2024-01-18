@@ -16,13 +16,6 @@ h1 {
   text-decoration: underline;
 }
 
-.navbar {
-  position: absolute;
-  top: 70px; 
-  z-index: 1; 
-  border-radius: 500px;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -39,12 +32,12 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 16.4px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: #111;
+  background-color:darkseagreen;
 }
 
 h3 {
